@@ -1,4 +1,5 @@
 # CircleCiTest
+Testing CircleCI for purpose
 
 To start your Phoenix server:
 
